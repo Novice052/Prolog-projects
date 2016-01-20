@@ -1,2 +1,2 @@
-# test-repo
-just a test
+# Prolog-projects
+Sandbox for Prolog files while I learn
